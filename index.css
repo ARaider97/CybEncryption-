@@ -28,12 +28,8 @@ form {
  outline: 1px;
  width: 70%;
 }
-
-input.middle:focus {
-    outline-width: 0;
-}
  
-input {
+textarea {
  padding: 18px;
 }
 
