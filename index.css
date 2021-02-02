@@ -33,6 +33,10 @@ input.middle:focus {
     outline-width: 0;
 }
  
+input {
+ padding: 40px;
+}
+
 }
 #encrypt {
   padding: 30px;
