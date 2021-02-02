@@ -11,18 +11,24 @@
   background-color: black;
 }
 
+body {
+ text-align: center;
+ font-family: 'Oswald', sans-serif;
+}
+
 #EHead{
   padding: 60px 60px;
   font-family: 'Oswald', sans-serif;
   text-align: center;
 }
 
+form {
+ display: inline-block;
+}
+ 
+}
 .Encryptor {
   padding: 30px;
   font-size: 15px;
   font-family: 'Oswald', sans-serif;
-  text-align: center;
-  position: absolute;
-  width: 80%;
-  margin: 0 auto;
 }
