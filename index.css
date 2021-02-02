@@ -25,12 +25,9 @@ body {
 
 form {
  display: inline-block;
- border: 0px;
+ border: 1px dashed;
 }
 
-form, textarea {
- background-color: gainsboro;
-}
  
 }
 .Encryptor {
