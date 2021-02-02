@@ -25,6 +25,7 @@ body {
 
 form {
  display: inline-block;
+ border: 0px;
 }
 
 form, textarea {
