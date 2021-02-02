@@ -25,6 +25,7 @@ body {
 
 form {
  display: inline-block;
+ background-color: gainsboro;
 }
  
 }
