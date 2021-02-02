@@ -31,6 +31,7 @@ form {
  
 textarea {
  padding: 18px;
+ border: 1px black;
 }
 
 #encrypt {
@@ -46,4 +47,5 @@ textarea {
   text-decoration: none;
   background-color: black;
   color: white;
+  border-radius: 12px;
 }
