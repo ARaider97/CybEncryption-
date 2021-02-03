@@ -1,5 +1,3 @@
-document.getElementById("myForm").onsubmit = function() {myFunction()};
-
-function myFunction() {
-  alert("The form was submitted");
+function Encrypt() {
+console.log("confirming https handshake");
 }
