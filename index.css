@@ -23,6 +23,12 @@ body {
   text-align: center;
 }
 
+#DHead {
+  padding: 60px 60px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
 form {
  display: inline-block;
  outline: 1px;
