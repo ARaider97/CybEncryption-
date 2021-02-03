@@ -7,5 +7,5 @@ function Encrypt() {
   console.log("splitting ip for signature");
   var ipsig = Document.getElementById(gfg);
   console.log(ipsig);
-  
+  return str;
 }
