@@ -70,7 +70,17 @@ textarea {
   font-family: 'Oswald', sans-serif;
 }
 
-footer {
+f1 {
  padding: 30px 60px;
+ background-color: white;
+}
+
+f2 {
+ padding: 60px 60px;
  background-color: black;
+}
+
+f3 {
+ padding 20px 60px;
+ background-color: purple;
 }
