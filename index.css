@@ -48,3 +48,18 @@ textarea {
   border-radius: 9px;
  font-family: 'Oswald', sans-serif;
 }
+
+#decrypt {
+  padding: 18px;
+  font-size: 12px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+#subD {
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  border-radius: 9px;
+  font-family: 'Oswald', sans-serif;
+}
