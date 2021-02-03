@@ -31,15 +31,13 @@ form {
  
 textarea {
  padding: 18px;
- border: solid 1px black;
+ border: solid 3px black;
 }
 
 #encrypt {
   padding: 30px;
   font-size: 12px;
   font-family: 'Oswald', sans-serif;
-  outline: none;
-  border: 1px;
 }
 
 #subE {
