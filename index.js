@@ -1,3 +1,5 @@
-document.getElementById("formE").onsubmit = function ENCRYPT() {
-  console.log("confirmation: contact recieved.");
+document.getElementById("myForm").onsubmit = function() {myFunction()};
+
+function myFunction() {
+  alert("The form was submitted");
 }
