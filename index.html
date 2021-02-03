@@ -36,6 +36,11 @@
         <textarea rows="40" cols="80" type="text" name="encrpyt" id="encrypt"></textarea><br>
         <input type="submit" value="Encrypt" name="subE" id="subE">
     </form>
+    <script>
+        document.getElementById("formE").onsubmit=function EncryptSubmit() {
+            Encrypt();
+        }
+    </script>
     </div>
  <div id="Decryptor">
      <h3 id="DHead">Decrypt</h3>
@@ -44,6 +49,8 @@
          <textarea rows="40" cols="80" type="text" name="decrypt" id="decrypt"></textarea><br>
          <input type="submit" value="Decrypt" name="subD" id="subD">
      </form>
+     <script>
+     </script>
     </div>
     <div id="f1">
      <footer></footer>
