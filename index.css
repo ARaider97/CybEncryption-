@@ -82,7 +82,7 @@ textarea {
 }
 
 #f3 {
- padding 60px 60px;
+ padding: 60px 60px;
  background-color: purple;
  z-index: 1;
 }
