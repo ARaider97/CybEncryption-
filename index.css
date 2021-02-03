@@ -69,3 +69,12 @@ textarea {
   border-radius: 9px;
   font-family: 'Oswald', sans-serif;
 }
+
+footer {
+	min-height: 20vw;
+	/* DID THIS SO YOU CAN SEE IT AUTOMATICALLY SCALE - SIMULATION RESPONSIVENESS */
+	/* RESIZE THE WINDOW AND THEN SCROLL VERITCALLY AGAIN */
+	background-size: cover;
+	background-position: center;
+	background-image: url('http://dummyimage.com/1500x1500/2A2A2A/FFF.png?text=Footer+Area+(Resize+Me)');
+}
