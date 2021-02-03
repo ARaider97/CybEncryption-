@@ -1,5 +1,5 @@
 function Encrypt() {
       console.log("confirming https handshake");
-      var unENC = document.getElementById("inputE");
+      var unENC = document.getElementById("inputE").value;
       window.alert(unENC);
 }
