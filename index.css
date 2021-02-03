@@ -78,11 +78,9 @@ textarea {
 #f2 {
  padding: 60px 60px;
  background-color: black;
- z-index: 100;
 }
 
 #f3 {
  padding: 30px 60px;
  background-color: purple;
- z-index: 1;
 }
