@@ -69,3 +69,8 @@ textarea {
   border-radius: 9px;
   font-family: 'Oswald', sans-serif;
 }
+
+footer {
+ padding: 30px 60px;
+ background-color: black;
+}
